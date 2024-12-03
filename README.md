@@ -7,12 +7,21 @@ The application provides functionalities to manage students, including adding, u
 ![homepage](https://i.postimg.cc/j2HBM3P0/clone.png)
 ---
 ## Features
-- Add new student information.
-- Modify existing student details.
-- Delete student records.
-- Display all student data.
-- Save and load data using serialized files.
+- a) User-Friendly Interface: A simple and easy-to-navigate design for all age groups. 
+- b) Option to create and manage user profiles for personalized experiences.
+- c) A wide range of videos categorized for easy browsing. 
+- d) Works seamlessly across devices, including phones, tablets, and desktops. e) Smooth streaming with controls like play, pause, and seek. 
 ---
+
+## Installation
+1. Download `v1.zip` from [Releases](https://github.com/knightrider-GH/clone-netflix/releases).
+2. Extract the zip file.
+3. Run `index.html` on your preferred browser.
+
+OR
+
+Just click [here](https://knightrider-gh.github.io/clone-netflix/)
+
 ## Project Structure
 ### **Source Files**
 - **`Main.java`**  
@@ -34,7 +43,3 @@ The application provides functionalities to manage students, including adding, u
 - **`studentdata.dat`**  
   Stores serialized student information for persistent storage.
 ---
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone :https://knightrider-gh.github.io/clone-netflix/
