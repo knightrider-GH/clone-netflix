@@ -4,7 +4,7 @@
 The application provides functionalities to manage students, including adding, updating, deleting, and saving student data. The persistent storage is implemented through serialization, ensuring data is retained between sessions.
 
 # Homepage
-[homepage](https://i.postimg.cc/j2HBM3P0/clone.png)
+![homepage](https://i.postimg.cc/j2HBM3P0/clone.png)
 ---
 ## Features
 - Add new student information.
