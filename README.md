@@ -2,6 +2,9 @@
 ## Overview
 **Cloned Netflix** is a Java-based application for managing student-related data. This project demonstrates basic CRUD (Create, Read, Update, Delete) operations using Java object-oriented principles. 
 The application provides functionalities to manage students, including adding, updating, deleting, and saving student data. The persistent storage is implemented through serialization, ensuring data is retained between sessions.
+
+# Homepage
+[homepage](https://i.postimg.cc/j2HBM3P0/clone.png)
 ---
 ## Features
 - Add new student information.
